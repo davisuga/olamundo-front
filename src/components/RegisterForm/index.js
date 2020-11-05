@@ -4,7 +4,7 @@ import { Input, Container, Title, Button } from "./styles";
 function Form() {
   return (
     <Container>
-      <Title>Registrar</Title>
+      <Title>Registre-se</Title>
       <Input placeholder="email"></Input>
       <Input placeholder="nome completo" />
       <Input placeholder="senha" />
