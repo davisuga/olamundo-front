@@ -4,7 +4,7 @@ import Form from "./components/Form";
 function App() {
   return (
     <div className="App">
-      <h1>Ola Mundo</h1>
+      <h1>Olá Mundo</h1>
       <p>
         A equipe do olámundo entende o quão é importante o conhecimento básico
         de programação e o quão díficil é encontrar materiais em português para
