@@ -1,2 +1,3 @@
-import {Input} from './styles'
-export default Input
+import { Input } from "./styles";
+
+export default Input;
